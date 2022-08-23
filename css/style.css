@@ -1,0 +1,170 @@
+body
+{
+    margin-top: 100rem;
+    padding: 0rem;
+    text-align: center;
+    margin: 0rem;;
+}
+#Bottom-Cloude
+{
+    position: absolute;
+    left: 25.25rem;
+    bottom: 28.125rem;
+    height: 5rem;
+    width: autopx;
+}
+
+#Bottom-Cloud
+{
+    position: absolute;
+    right: 18.75rem;
+    bottom: 21.875rem;
+    height: 8.125rem;
+    width: 18.75rem;
+}
+
+#Top-Cloud
+{
+    position: absolute;
+    top: 0px;
+    right: 400px;
+    height: 80px;
+    margin-bottom:20px;
+}
+div, h1
+{
+    height:auto;
+    border: thin;
+    border-style: inherit;
+}
+#temp
+{
+    width: 100px;
+    background-color: aqua;
+}
+#nav-my, #nav-logo
+{
+    height: 100px;
+    position: relative;
+}
+p{
+    font-family: 'Grenze Gotisch', cursive;
+}
+h1
+{
+    font-family: 'Sacramento', cursive;
+}
+h2,h3,h4,h5,h6
+{
+    font-family: 'Lobster Two', cursive;
+}
+td
+{
+    padding: 0.625rem;
+}
+img
+{
+    display: inline-block;
+}
+
+#Cover
+{
+    position: relative;
+    padding: 6.25rem;
+}
+.TC
+{
+    position: absolute;
+    top: 3.125rem;
+    right: 25rem;
+
+}
+.BC
+{
+    position: absolute;
+    bottom: 21.875rem;
+    left: 31.25rem;
+}
+
+.Cover
+{
+    position: relative;
+}
+
+
+
+.Skill-Row
+{
+    margin: 0% 18.75rem;
+}
+table
+{
+    border: 0rem transparent;
+    border-radius: 1.25rem;
+}
+.First
+{
+    border: 0rem transparent;
+    border-radius: 1.25rem 0rem 0rem 1.25rem;
+}
+.Second
+{
+    border: 0rem transparent;
+    border-radius: 0rem 1.25rem 1.25rem 0rem;
+}
+
+h1,h2
+{
+    color: #66BFBF;
+}
+h2
+{
+    font-weight: normal;
+}
+h3, a
+{
+    color: #11999E;
+}
+h1
+{
+    line-height: 2;
+}
+p
+{
+    font-size: 1.1rem;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  #Footer-Portion
+  {
+   background-color: #876445; 
+  }
+  #address
+  {
+    margin: 0%;
+    color: #EAF6F6;
+  }
